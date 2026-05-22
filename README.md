@@ -87,8 +87,7 @@ Exports results into machine-readable formats for downstream processing.
 Typical outputs include:
 
 * CSV
-* Excel
-* JSON
+* TXT
 
 (depending on configuration)
 
@@ -156,8 +155,8 @@ Reduce manual legislative identification work across large EU regulatory dataset
 ## Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/eu-financial-services-exporter.git
-cd eu-financial-services-exporter
+git clone https://github.com/Filippakis/EU-financial-services-legislation-fetcher.git
+cd EU-financial-services-legislation-fetcher
 ```
 
 ---
@@ -226,7 +225,7 @@ The script will:
 
 # Current Limitations
 
-This project is an early-stage prototype.
+This project is an early-stage prototype with certain limitations.
 
 The current filtering and classification engine relies heavily on:
 
@@ -301,7 +300,7 @@ It does not constitute:
 * regulatory advice,
 * or a comprehensive statement of applicable law.
 
-Users should independently validate all outputs before relying on them for legal or compliance purposes.
+This tool is not to relied upon for any legal or regulatory task. Users should independently validate all outputs before using them for legal or compliance purposes.
 
 ---
 
@@ -319,7 +318,6 @@ Potential areas for contribution include:
 
 * classification logic,
 * NLP enhancements,
-* EUR-Lex integration,
 * testing,
 * export formats,
 * and performance optimization.
