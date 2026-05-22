@@ -155,8 +155,8 @@ Reduce manual legislative identification work across large EU regulatory dataset
 ## Clone the repository
 
 ```bash
-git clone https://github.com/Filippakis/EU-financial-services-legislation-fetcher.git
-cd EU-financial-services-legislation-fetcher
+git clone https://github.com/Filippakis/EU-financial-services-legislation-exporter.git
+cd EU-financial-services-legislation-exporter
 ```
 
 ---
