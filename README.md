@@ -300,7 +300,7 @@ It does not constitute:
 * regulatory advice,
 * or a comprehensive statement of applicable law.
 
-This tool is not to relied upon for any legal or regulatory task. Users should independently validate all outputs before using them for legal or compliance purposes.
+This tool is not to be relied upon for any legal or regulatory task. Users should independently validate all outputs before using them for legal or compliance purposes. There are no guarantees for the accuracy of any outputs.
 
 ---
 
